@@ -1,5 +1,11 @@
 {
-    "webcredentials":{
-        "apps":["FXBHTYQB22.com.iblockfinance.BronkFinancial"] 
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NTTBA823A2.com.tianjs.bl",
+                "paths": [ "*" ]
+            }
+        ]
     }
 }
