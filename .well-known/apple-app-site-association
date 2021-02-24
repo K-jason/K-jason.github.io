@@ -2,10 +2,12 @@
     "applinks": {
         "apps": [],
         "details": [
-            {
-                "appID": "NTTBA823A2.com.tianjs.bl",
-                "paths": [ "*" ]
-            }
-        ]
+        {
+            "appID": "NTTBA823A2.com.tianjs.finan",
+            "paths": ["/finan/*"]
+        },{
+           "appID": "NTTBA823A2.com.tianjs.bl",
+           "paths": ["/bl/*"]
+       }]
     }
 }
